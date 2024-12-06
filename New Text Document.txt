@@ -1,0 +1,1 @@
+npx mocha tests/**/*.test.js --timeout 10000
